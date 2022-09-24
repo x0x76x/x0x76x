@@ -23,8 +23,8 @@
 
 
 <p align="center">
-  <a href="https://discord.com/users/855020556176457749">
-     <img src="https://discord.c99.nl/widget/theme-4/855020556176457749.png" alt="64bit#0001 ( 855020556176457749 )"/>
+  <a href="https://discord.com/users/1007206443063189506">
+     <img src="https://discord.c99.nl/widget/theme-4/1007206443063189506.png" alt="64bit#0001 ( 855020556176457749 )"/>
        </a>
 </p>
 
