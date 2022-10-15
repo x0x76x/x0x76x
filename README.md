@@ -4,14 +4,6 @@
 
 ### Hey! I am Velayx.
 
-> Lua<br>
-> JavaScript<br>
-> PHP<br>
-> HTML<br>
-> Java<br>
-> Python<br>
-> Go
-
 <p align="center">
  <h2 align="center">What I've accomplished</h2>
 </p>
