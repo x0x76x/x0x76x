@@ -1,9 +1,8 @@
 #  Hello World! I'm Jack! ✌️
-#### I'm a Backend Developer.
-- I'm 15 years old 🌱
+#### I'm a Frontend & Backend Developer.
 - I'm from United Kingdom ✨
 <div>  
-  I am studying   <strong>Golang</strong>
+  I am mainly a   <strong>LUA</strong> developer but I do know other languages like Python & HTML.
 <hr>
 
 
