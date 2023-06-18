@@ -1,8 +1,8 @@
-#  Hello World! I'm Jack! ✌️
+#  Hello! I'm Jack! ✌️
 #### I'm a Frontend & Backend Developer.
 - I'm from United Kingdom ✨
 <div>  
-  I am mainly a   <strong>LUA</strong> developer but I do know other languages like Python & HTML.
+  I am just your average Cfx.re developer.
 <hr>
 
 
